@@ -56,7 +56,3 @@ There, you will find the project files. Open `data_pipeline.ipynb` located in `s
 ## Usage
 
 - Run each cell in the Jupyter Notebook `data_pipeline.ipynb` to reproduce the data processing steps and results.
-
-## Notes
-
-Authors Note: Was unable to finish plotting the top 5 sales owners by month considering a 3 month rolling window due to personal time constraints. Please let me know if I have more time and I will happily do it :)

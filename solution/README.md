@@ -61,7 +61,7 @@ There, you will find the project files. Open `data_pipeline.ipynb` located in `s
 <br />
 
 <p align="center">
-  <img src="erd.png" alt="data_pipeline_erd" width="1434" height="1143">
+  <img src="erd.png" alt="data_pipeline_erd" width="896" height="666">
 </p>
 
 <br />

@@ -1,4 +1,3 @@
-
 # IFCO Data Engineering Test Solution
 
 This is a solution to the IFCO data engineering test avaliable [here](https://github.com/Digital-IFCO/data-engineering-test).
@@ -56,3 +55,13 @@ There, you will find the project files. Open `data_pipeline.ipynb` located in `s
 ## Usage
 
 - Run each cell in the Jupyter Notebook `data_pipeline.ipynb` to reproduce the data processing steps and results.
+
+## Entity Relationship Diagram
+
+<br />
+
+<p align="center">
+  <img src="erd.png" alt="data_pipeline_erd" width="1434" height="1143">
+</p>
+
+<br />

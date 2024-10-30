@@ -1,0 +1,19 @@
+services:
+  jupyter:
+    build:
+      context: ../
+      dockerfile: solution/Dockerfile
+    ports:
+      - "8888:8888"
+    volumes:
+      - ../:/home/notebook/data-engineering-test/
+    environment:
+      - JUPYTER_PORT=8888
+    command: >
+      jupyter lab
+      --ip=0.0.0.0
+      --port=8888
+      --no-browser
+      --allow-root
+      --NotebookApp.token=''
+      --NotebookApp.password=''

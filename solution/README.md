@@ -58,6 +58,8 @@ There, you will find the project files. Open `data_pipeline.ipynb` located in `s
 
 ## Entity Relationship Diagram
 
+To take a closer look at the ERD, please open the file `erd.pdf`
+
 <br />
 
 <p align="center">
